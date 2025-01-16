@@ -1,0 +1,10 @@
+name: submission
+title:
+username: yeejuwon
+account: yeejuwon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13732093
+bundleId:
+url: https://yeejuwon.shinyapps.io/submission/
+version: 1

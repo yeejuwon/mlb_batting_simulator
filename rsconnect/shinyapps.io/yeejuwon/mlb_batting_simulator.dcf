@@ -1,0 +1,10 @@
+name: mlb_batting_simulator
+title:
+username: yeejuwon
+account: yeejuwon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13732538
+bundleId: 9654841
+url: https://yeejuwon.shinyapps.io/mlb_batting_simulator/
+version: 1
