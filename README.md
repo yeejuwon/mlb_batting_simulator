@@ -65,10 +65,16 @@
   - rsconnect/
     - This folder includes files that helps publishing our web app to shinyapps.io
   - submission.Rproj
-    - An R project file for creating relative paths for R codes.
+    - An R project file for creating relative paths for R codes. Please open this file before 'app.R' for configuration.
 
 ## How to Run
 - The files that must initially exist in the data folder are 'statcast_pitch_swing_data_20240402_20241030_with_arm_angle.csv' used in the Data Challenge, and 'fangraphs+platedisc.csv' retrieved from Fangraph.
 - Execute the files in the order specified in the 'Files'. e.g. switch_hitters_split.ipynb (1): (1) indicates that it should be run first.
 - The code is written with relative paths, so it should run smoothly.
 - Our codes will generate files for next codes sequentially.
+- Please open 'submission.Rproj' before 'app.R' for configuration.
+
+## Contact Info
+- Juwon Lee(Team Captain): leeju1_424@yonsei.ac.kr
+- Jiyong Lee: yugyung@yonsei.ac.kr
+- Yugyung Kim: jiyong18@yonsei.ac.kr
