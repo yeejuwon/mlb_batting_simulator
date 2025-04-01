@@ -76,5 +76,5 @@
 
 ## Contact Info
 - Juwon Lee(Team Captain): leeju1_424@yonsei.ac.kr
-- Jiyong Lee: yugyung@yonsei.ac.kr
-- Yugyung Kim: jiyong18@yonsei.ac.kr
+- Jiyong Lee: jiyong18@yonsei.ac.kr
+- Yugyung Kim: yugyung@yonsei.ac.kr 
