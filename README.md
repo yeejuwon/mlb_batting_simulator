@@ -1,6 +1,6 @@
 # Optimizing Batting Orders: Monte Carlo Game Simulation Based on Batter Swing Clustering
 
-! WINNERS OF CSAS 2025 : DATA CHALLENGE !
+! WINNERS OF CSAS 2025 : DATA CHALLENGE ! (https://statds.org/events/csas2025/index.html)
 
 ![포스터](images/포스터_최종_3차.jpg)
 
