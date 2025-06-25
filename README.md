@@ -1,5 +1,7 @@
 # Optimizing Batting Orders: Monte Carlo Game Simulation Based on Batter Swing Clustering
 
+! WINNERS OF CSAS 2025 : DATA CHALLENGE !
+
 ## Introduction
 - Our team, Yonsei Blues, aimed to evaluate whether clustering batters based on their physical swing characteristics and plate discipline stats is appropriate for assessing the scoring potential of batting lineups.
 - We used K-Means Clustering as the clustering method and built a simulator using Monte Carlo Simulation.
