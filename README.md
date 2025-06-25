@@ -2,7 +2,7 @@
 
 ! WINNERS OF CSAS 2025 : DATA CHALLENGE !
 
-![포스터](./images/포스터_최종_3차.png)
+![포스터](images/포스터_최종_3차.jpg)
 
 ## Introduction
 - Our team, Yonsei Blues, aimed to evaluate whether clustering batters based on their physical swing characteristics and plate discipline stats is appropriate for assessing the scoring potential of batting lineups.
